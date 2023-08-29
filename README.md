@@ -1,18 +1,15 @@
- 👏 Oi mim chamo Nalbert
- 
-     Faço Faculdade na Universidade Unex-Feira de santana-BA
-     Cursando Sistema da informaçao 1/4📕
+
+<h2>👏 Oi mim chamo Nalbert </h2>
+
+  <h3> Cursando Sistema da informaçao 1/4📕 na
+       Universidade Unex-Feira de santana-BA
+       </h3>  
      
 📖 Tou começando nessa area da tecnologia ainda fazendo a caminhando da minha Aventura
 
 📚 Estudando Css,Html e focado no javascript .
 
-🫠Sem nenhuma colaboração ainda...
+🎮Sem nenhuma colaboração ainda... 
 
-📫 Ajeitando...
+-📫 Ajeitando...
 
-
-<!---
-Readme ainda em construção 🚧
-
---->
