@@ -1,7 +1,7 @@
 
 <h2>👏 Oi mim chamo Nalbert </h2>
 
-  <h3> Estou cursando Sistema da informaçao 1/4 na
+  <h3> Estou cursando Sistema da informaçao 2/4 na
        Universidade Unex-Feira de santana-BA📕
        </h3>  
      
